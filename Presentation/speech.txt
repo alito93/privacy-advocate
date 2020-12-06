@@ -1,0 +1,189 @@
+[SLIDE 1]
+
+Took a long time trying to figure out where to start to talk about privacy. What’s a good first image? Settled with this one, Zuckerberg testifying to US congress with the masked reminder of what has happened in 2020.
+
+What is privacy?
+
+[SLIDE 2]
+
+Aristotle talked about a public life dedicated to political activity and a private life dedicated to the family. John Stuart Mill talked about a public sphere and a private sphere. A private sphere where one could engage in liberties where in the public sphere would be frowned upon or even prohibited, as they might infringe on the liberties and rights of others.
+
+We sometimes make the mistake of thinking of our rights and freedoms as the final objective. But freedom is the means, not the end. Free speech is the mean by which we communicate. The right to protest allows us to engage the government. Privacy is the tool we use to think, create our own ideas and engage in critical thinking. How many times has a thought come up that you thought was ridiculous? We rarely take a position on any issue by thinking 1 minute about it. It takes time and a process of trial and error to get to that final position.
+
+Then of course, security. Security and privacy are closely linked concepts but they are not the same. If anyone can enter your home then it isn’t really private, is it? On the other hand, a bunker with transparent walls and doors is not private.
+
+So what is the real definition of privacy? Freedom from intrusion. Simple as that. It starts with you, your mind, your thoughts. Then it expands to your property. And it also expands to communication. If my intention is to communicate with you, then that communication should be free from intrusion as long as we use the proper channels.
+
+[SLIDE 3]
+
+For those who do not know who this is, Christopher Hitchens is a best selling author, journalist, columnist and intellectual. His most famous works are about politics and religion.
+
+In 2009, Christopher claims to be the only writer to have visited the axis of evil countries at the peak of their respective dictators’ ruling: Iraq, North Korea and Iran (at that time).
+
+He tells the story of how Saddam Husain grabs total power, how it is different from Hitler and Stalin. How his totality felt among the people in Iraq. Most importantly:
+
+[SLIDE 4]
+
+“It is often difficult when you come out of country like this [USA], to explain to people what is like when you are there [in Iraq]. The atmosphere of terror. The look that comes into people’s eyes when you mention the name of the leader. The absolute flash of panic. Anything can happen to me now. The person who spills a cup of coffee in the morning, on a copy of the party paper that has the leader’s picture on it. And everyone in the Cafe goes completely quiet. ‘You just desecrated a picture of the leader. The police are on their way now. You just made the biggest mistake of your life. And it is very likely that your family will go to prison with you, and maybe they’ll have to watch you get tortured and if they do, they will have to applaud. And if they have to watch you being executed they will be later sent a bill for the bullets that were used to be fired into the back of your head and your neck because no one is exempt.
+
+It is often I think,  very very hard for people who live in civilised countries, democratic countries to understand what it would be like to live even a day under a regime that was like this.”
+
+[SLIDE 5]
+
+On North Korea:
+“As a writer, I try to avoid cliches at all costs. When I got to North Korea, I knew what I did not want to say: 1984. But at some point I had no choice. Could it be that someone had given them the Korean translation of the book and said, ‘do you think we could make this fly? I don’t know, but we could sure give it the good old college try.’ Because that is what it looks like. 
+
+There is no private life for a North Korean, there isn’t a moment when you are not either on parade or told to stay indoors under curfew. Lights are out at 8.30 pm. Nothing to watch, nothing to see. Daily TV, all operas, all films, concert performances all public lectures are about the dear leader. There is nothing else to talk about. The life of the human being (…) is completely pointless. The concept of liberty, of humor, or irony or happiness or love does not exist. You are there simply as a prop for the state. And though it used to be with any slave system, they used to feed you for your services. Now they don’t feed you either, they barely clothe you.”
+
+[SLIDE 6]
+
+For those who did not know, Iran has a democratic theocracy. They elect presidents but they also have a religious Supreme Leader.
+
+Common practice in Iran, they detain you, pressure you into giving them passwords and access to all kinds of personal records. Then they run a smear campaign against you, publishing pictures of your family, modified bank movements, work contracts. To be clear, under order of the Ayatollah, authorities can break Iran’s laws.
+
+Hitchens remembers that before the computer era, Iran had banned owning typewriters due to being great tools for creating and copying texts to be shared afterwards.
+
+[SLIDE 7]
+
+Which brings us to 1984. If you have not read it, please do yourself the favor. And if you have read it, please red Christopher Hitchens book: "Why Orwell Matters".
+
+Orwell published it in 1949, using the Soviet Union as his model for Oceania, a dystopia were there is perpetual war, historical denialism and mass government surveillance.
+
+The dictators that have been mentioned have all used when of the tactics that Big Brother (the leader of the ruling political party in 1984) imposes on the population of Oceania.
+
+
+[SLIDE 8]
+
+Hitchens died earlier in the 2010s. He did not live to see the Chinese social credit system, system that relies heavily on another element present in 1984 and the biggest threat to privacy today: mass surveillance.
+
+Using mass surveillance, the Chinese government watches over the population both online and in the streets. Depending on your actions, they grant you a social credit score. Throwing trash to the floor? Lower score. Giving public speeches? Lower score.
+
+Based on that score, the state can do several things like: installing an embarrassing ringtone on your phone, 
+deny boarding to a flight, 
+increase loan interests, 
+slow down your internet connection and more.
+
+One device used in the 1984 novel is the concept of the tele-screen. A tele-screen is like a TV, except that it is also a surveillance camera with a microphone. Using this, Big Brother and his Minister of Love can see what any citizen is doing. Citizens know that they are being recorded, but are not certain someone is watching them. Tele-screens can be turned off for 30 minutes if you are from the middle class, and only turn down the volume if you are lower class. They cannot film in the dark, but their microphones are sensitive enough to record heartbeats.
+
+All of this events, both fictional and non fictional happen under extremely strong and brutal dictatorships. And since we do not have any in the west, we are safe...
+
+[SLIDE 9]
+
+And it is true. No supreme leaders in the west. Democratic republics, with liberal constitutions that state our right to privacy clear as day.
+
+Do you know how toads are cooked? Do you know the boiling frog fable? Well, it appears to be false apparently. Just look it up in Wikipedia, no need to try on your own. 
+
+But what does the fable say? If you throw a frog in boiling water, it will try to escape, sensing the obvious danger. However, put the frog in the cold water and start making the water warmer slowly. The frog will not notice the temperature difference and will be boiled to death.
+
+Climate change, abusive relationships and of course, the erosion of civil liberties are some  of the concepts that are frequently thrown together with this phrase.
+
+Are we in this situation? Is our privacy being slowly eroded by the government? Is there any evidence of this?
+
+While the conspiracy minded people, wearing tin foil hats already were certain of it and some in the tech community suspected it, there was little to no proof of actual government meddling in people’s private lives. Until…
+
+[SLIDE 10]
+
+… Snowden! Perhaps the most famous whistleblower in world history. Currently still residing in Russia and charged by the US government under the espionage act even though, what he uncovered was ruled illegal on September 2020.
+
+Do you know what he uncovered? What he blew the whistle on on 2013?
+
+Before jumping in, remember that before he took his decision, he was working a comfortable, well paying office job in the paradise of Hawaii with his girlfriend. Now, let us see.
+
+[SLIDE 11]
+
+This slide shows the budget for the US National Intelligence and how it is distributed for each governmental agency. But the third column of circles shows us to which activities that money is going to. The biggest amount goes to Data Collection.
+
+[SLIDE 12]
+
+PRISM is an NSA program that was used to retrieve data from Internet Companies like Google and Verizon among others. According to Snowden, PRISM started in 2007 after the Protect America Act was approved and 6 years after the Patriot Act was created following 9/11.
+
+Can you identify any of the companies that are PRISM Providers? The NSA got user information on each of those, through FISA courts (secret courts where requests have always been approved) or...
+
+[SLIDE 13]
+
+Hacking. This document shows that the NSA knew how Google handles data and encryption and where the vulnerabilities in the process were.
+
+They knew that if they could get inside the Google Cloud area, all the data would be unencrypted and ripe for being copied and taken.
+
+To recap,  Snowden revealed...
+
+[SLIDE 14]
+
+NSA Overreach might be an understatement. The NSA has in place a system of mass surveillance that is only growing. In the name of national security, the NSA was spying on more US citizens engaging in legal activities than on any other type of actor. 
+
+How? With PRISM requests or even hacking their systems in order to create backdoor accesses that they wanted to be kept secret. The applications they considered “Leaky”, as in the leak information are: Twitter, Google Maps, Flickr, Facebook, Instagram, Pinterest and more. But while content is of the outmost value, so is the information about that content.
+
+For any given person monitored, the NSA has a sort of profile. Pattern of life they call it, where they mimic what a private investigator would do in real life, but virtually. A PI would follow you form afar, without you noticing. Noting who you talk to, how often, where you go, etc. If they wanted to get the content and could not get it from one of their other methods, they used Smurfs.
+
+Remember the Smurfs? Well this is the NSA version:
+	Dreamy Smurf – Has the ability to turn phones on or off remotely
+	Nosey Smurf – Has the ability to make use of the phone’s microphone to listen to conversations and noise in the local area
+	Tracker Smurf – Has the ability to precisely track your position
+	Paranoid Smurf – Works to hide the activities of the other Smurfs to prevent detection
+While there is no evidence apparently of these tools being used agains American citizens, the technology exists. Oh, and look out for ANT Tools (Advanced Network Technologies), like:
+    SURLYSPAWN – Able to log keystrokes on a computer and transmit them wirelessly, even when the computer isn’t connected to the internet
+    CANDYGRAM – Able to imitate a GSM cell phone tower to monitor cell communications
+    FIREWALK – Designed to look just like a regular RJ45 internet socket, this tool can inject and monitor device data via radio waves
+    MONKEYCALENDAR – Able to transmit a cell phone’s geolocation via a secret text message
+    COTTONMOUTH – Designed to look like USB and Ethernet connectors, these tools can hack into computers and provide remote access
+
+[PAUSE] Quite a bit to take in.
+
+There are a few concepts that are at the center of all of these activities. Data, metadata and encryption.
+
+[SLIDE 15]
+
+Imagine data as content. If I send a message saying “Hello, my name is Anon”. Then, “Hello, my name is Anon” is the content, the data. Quite straight forward.
+
+[SLIDE 16]
+
+Now, metadata. Spooky word you probably heard that is not as clear cut as data. You have heard about meta physics, but what is metadata. It is the data about the data. Remember that virtual private detective? He will not know what is in a message, but he knows who you sent it to, when, with what frequency… 
+But metadata is even simpler to understand when you remove the data concept and just think of it as a record of an activity. You went to the supermarket. You talked to your mom while you were there. You used your credit card.
+
+[SLIDE 17]
+
+But the concepts of data and metadata apply not only to messages. They apply to any type of data, information or file that is virtually possible. In fact, most softwares need the metadata of a file in order to run it. How does word recognize that a file is a document and not a presentation? .doc
+
+So let’s look at the picture of the cat. What is the data and the metadata? It should be quite clear by now.
+
+[SLIDE 18]
+
+Encryption to save us all! Well it is not the ultimate salvation, but it is close.
+
+When you think of encryption think of cryptography. There are many ways to encrypt a message, each with its own advantages and disadvantages. Check out the next image:
+
+Bob wants to send a greeting to Alice. So Bob encrypts his message using Alice’s public key. This scrambles the message in a way that is impossible to read… except if you have Alice’s private key. Alice can then decrypt it and read the message. As you can imagine, this is hardly a concept from the modern computer era…
+
+If you have seen that Alan Turing film, you should know that this machine is an Enigma machine. But encryption is way older than this, any secret code between two people, any secret fake language, is a form of encryption. How secure is it? It depends on the method used. No encryption method is impenetrable in theory. But in practice they would require so many resources that it would make the whole decryption without the key enterprise extremely inefficient.
+
+[SLIDE 19]
+
+To recap. All your data can be gathered. All your metadata can be gathered. Assume it already has been gathered either by a government entity or corporation, with your consent or without it.
+
+[SLIDE 20]
+
+This is chart represents the loss of privacy in our day to day life. Most probably, you can see things here that do not apply to you and some might even be missing. But I bet most of what you see here you use one way or another. Think about the main category instead of looking at the examples.
+
+[GO THROUGH EACH EXAMPLE]
+
+But not all hope is lost. If we use it properly, computers and the internet can help us regain our privacy and in many ways even improve it.
+
+[SLIDE 21]
+
+Some solutions. Some privacy problems can only be mitigated and others are just impossible to solve or very inconvenient. But you can work on adopting as much as you can: achieving 100% privacy is impossible, so do your best.
+
+[GO THROUGH EACH EXAMPLE]
+
+[SLIDE 22]
+
+This is a pre-covid picture. Then why the masks?
+
+Hong Kong has been fighting against the Chinese dictatorship, as the CCP is effectively invading Hong Kong. When protests erupted, security cameras were installed in order to identify individual protesters.
+
+Masks became very popular, specially those that can mitigate the effects of the tear gas the police is using agains the protesters and hide their faces from the advanced facial recognition systems the CCP is using.
+
+We often realize the importance of our rights, of our freedom only when they are in danger. Governments are currently setting the foundations for a Big Brother, a Kim Jong Un in the west. Let's take action and stand for ourselves right now.
+
+[SLIDE 23]
+[SLIDE 24]
+[SLIDE 25]
